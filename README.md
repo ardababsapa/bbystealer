@@ -1,9 +1,6 @@
-[:gem: Premium](https://discord.gg/R33XBnK3ny) - [🔧 Builder]() - [💡 Features](https://github.com/Siecly/bbystealer#features) 
-### Authors
-- Stanley
-- Bytixo
+[:gem: Premium](https://discord.gg/R33XBnK3ny) - [🔧 Builder](https://github.com/Siecly/bbystealer/releases/tag/bby) - [💡 Features](https://github.com/Siecly/bbystealer#features) 
 
-### Contributors
+### Authors
 -Eddy0001
 -florin8321
 
