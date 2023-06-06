@@ -1,4 +1,3 @@
-:calendar: The injection has been fixed. The builder wll be created in 7 days
 #####[:gem: Premium](https://discord.gg/R33XBnK3ny) - [🔧 Builder]() - [💡 Features](https://github.com/Siecly/bbystealer#features) 
 ### Authors
 - Stanley
