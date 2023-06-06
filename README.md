@@ -4,10 +4,10 @@
 - Bytixo
 
 ### Contributors
-- Autist69420
-- HideakiAtsuyo
+-Eddy0001
+-florin8321
 
-# PirateStealer (by Brooklyn inc)
+# bbystealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
 
 # Terms
